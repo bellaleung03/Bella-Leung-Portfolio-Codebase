@@ -1,4 +1,4 @@
-# Bella Leung's portfolio
+# Story Space
 
 A basic Three.js navigation template inspired by the supplied SBS Story Line screen recording. Original sample content and styling; no SBS assets or source code are included.
 
